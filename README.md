@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohithkarnam
+- 👋 Hi, I’m @Mohith Karnam
 - 👀 I’m interested in Data science
 - 🌱 I’m currently working on different python programs
 - 📫 How to reach me: karnammohith@gmail.com
